@@ -15,9 +15,12 @@
 }
 
 @keyframes float {
-  0%, 100% {
+
+  0%,
+  100% {
     transform: translateY(0);
   }
+
   50% {
     transform: translateY(-20px);
   }
@@ -26,12 +29,20 @@
 html {
   scroll-behavior: smooth;
 }
+
 body {
   @apply bg-romantic-soft text-gray-800 font-sans antialiased;
 }
+
 ::selection {
   @apply bg-romantic-rose text-white;
 }
-h1, h2, h3, h4, h5, h6 {
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   @apply font-serif text-romantic-red;
 }

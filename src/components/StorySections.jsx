@@ -27,36 +27,36 @@ const StorySections = () => {
     <div className="relative z-10 w-full bg-white/40 backdrop-blur-sm">
       <Section title="Why You Feel Different">
         <p>
-          It’s hard to put into words, but from the moment we started talking, something shifted. 
+          It’s hard to put into words, but from the moment we started talking, something shifted.
           Talking to you feels like coming home. It's the way you listen, the way you think, and the effortless way you make me smile.
         </p>
       </Section>
 
       <Section title="Beyond Just Talking">
         <p>
-          I know we are still figuring things out—taking our time to understand each other's worlds. 
+          I know we are still figuring things out taking our time to understand each other's worlds.
           But even in this quiet beginning, my feelings for you are profound, steady, and undeniably serious.
         </p>
       </Section>
 
       <Section title="You Are The One">
         <p>
-          You aren't just an option or a fleeting thought. You are the one who constantly lingers in my mind. 
+          You aren't just an option or a fleeting thought. You are the one who constantly lingers in my mind.
           The one who makes the future look brighter and the present feel incredibly warm.
         </p>
       </Section>
 
       <Section title="The Only One">
         <p>
-          My eyes aren't looking anywhere else, and my heart has stopped searching. 
+          My eyes aren't looking anywhere else, and my heart has stopped searching.
           It has found exactly where it belongs, and who it wants to be with.
         </p>
       </Section>
-      
+
       <Section title="The Last One I Want to Fight For">
         <p>
-          If love is about trying, then I want to try with you. 
-          If love is about staying, then I want to stay for you. 
+          If love is about trying, then I want to try with you.
+          If love is about staying, then I want to stay for you.
           I want you to be the last person I ever fight for.
         </p>
       </Section>
